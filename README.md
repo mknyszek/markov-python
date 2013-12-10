@@ -1,7 +1,7 @@
 markov-python
 =============
 
-A simple implementation of nth-order markov chains in python.
+A simple implementation of an nth-order markov chain generator in python.
 
 Step 1
 -------
