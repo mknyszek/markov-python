@@ -1,7 +1,9 @@
 markov-python
 =============
 
-A simple implementation of an nth-order markov chain generator in python.
+A simple implementation of an nth-order markov chain generator in Python.
+
+markov.py should be compatible with Python 2.7+ and 3.0+, though any version of Python with shlex should work alright.
 
 Step 1
 -------
